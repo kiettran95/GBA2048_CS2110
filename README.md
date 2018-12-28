@@ -29,7 +29,7 @@ SCREENSHOTS:
 
 ![image](./screenshots/startgameImage.png)
 ![image](./screenshots/initialgameImage.png)
-![image](./screenshots/duringgameImage.png)
 ![image](./screenshots/duringgameImage2.png)
+![image](./screenshots/duringgameImage.png)
 ![image](./screenshots/gameoverImage.png)
 
