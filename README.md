@@ -28,7 +28,7 @@ GameBoy | Keyboard
 SCREENSHOTS:
 
 ![image](./screenshots/startgameImage.png)
-![image](./screenshots/initalgameImage.png)
+![image](./screenshots/initialgameImage.png)
 ![image](./screenshots/duringgameImage.png)
 ![image](./screenshots/duringgameImage2.png)
 ![image](./screenshots/gameoverImage.png)
